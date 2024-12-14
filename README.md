@@ -10,7 +10,7 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
 ---
 
 ## Skills
-- **Documentation Tools**: Markdown, GitHub, Confluence, MadCap Flare
+- **Documentation Tools**: Markdown, GitHub, Postman, MadCap Flare
 - **Programming & Data Formats**: JSON, YAML
 - **Content Management**: GitHub for version control, Markdown for clean formatting, JSON for data representation
   
