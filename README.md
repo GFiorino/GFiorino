@@ -38,6 +38,6 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
 
 ## Contact
 
-- **Email**: [gianpiero.fiorino@example.com](mailto:gianpiero.fiorino@example.com)
+- **Email**: [gianpiero.fiorino@example.com](mailto:gianpierofiorino@icloud.com)
 - **LinkedIn**: [Gianpiero Fiorino](https://www.linkedin.com/in/gianpierofiorino/)
 - **GitHub**: [gfiorino](https://github.com/gfiorino)
