@@ -28,8 +28,7 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
 
 ## Recent Projects
 
-### Trello Automating Guide
-
+### Trello-API: Automating Task Management with Postman
 - **Description**: Developed a comprehensive guide on automating tasks in Trello using the Trello API. The guide includes detailed instructions, code examples, and troubleshooting tips to assist users in effectively managing Trello boards programmatically.
 - **Technologies Used**: Trello API, Markdown, GitHub Pages
 - **Link**: [Trello API: Automating Task Management with Postman](https://gfiorino.github.io/Trello-API-Automating-Task-Management-with-Postman/)
