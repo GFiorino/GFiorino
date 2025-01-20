@@ -38,5 +38,5 @@ I am a technical writer with a strong foundation in API documentation, Markdown,
 ## Contact
 
 - **Email**: [gianpierofiorino@icloud.com](mailto:gianpierofiorino@icloud.com)
-- **LinkedIn**: [Gianpiero Fiorino](https://www.linkedin.com/in/gianpierofiorino/)
+- **LinkedIn**: [Gianpiero Fiorino](https://www.linkedin.com/in/gianpiero-fiorino/)
 - **GitHub**: [gfiorino](https://github.com/gfiorino)
