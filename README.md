@@ -1,42 +1,56 @@
-# Gianpiero Fiorino
-
-👋 **Entry-Level Technical Writer** | Specializing in API documentation, technical guides, and user-centered content.
-
----
-
-## About Me
-
-I am a technical writer with a strong foundation in API documentation, Markdown, GitHub, and JSON, and experience using Confluence and MadCap Flare. My goal is to create clear, user-friendly documentation that supports developers and end-users alike.
+# **Gianpiero Fiorino**  
+**Entry-Level Technical Writer** | Crafting API documentation, technical guides, and user-centered content  
 
 ---
 
-## Skills
+## **About Me**  
 
-- **Documentation Tools**: Markdown, GitHub, Postman, MadCap Flare
-- **Programming & Data Formats**: JSON, YAML
-- **Content Management**: GitHub for version control, Markdown for clean formatting, JSON for data representation
+I am a detail-oriented technical writer passionate about creating clear and accessible documentation. I specialize in API documentation, technical guides, and user-friendly manuals that bridge the gap between complex technical processes and their users. My expertise includes tools like Markdown, GitHub, and JSON, and I have hands-on experience with Postman, Confluence, and MadCap Flare.  
 
-### Soft Skills
-
-- **Communication**: Skilled in breaking down complex technical information into clear, concise language for diverse audiences.
-- **Adaptability**: Quick to learn new tools and adapt to changing project requirements, ensuring high-quality documentation under various conditions.
-- **Attention to Detail**: Meticulous in reviewing content for accuracy and clarity, ensuring professional and error-free documentation.
-- **Collaboration**: Experienced in working closely with cross-functional teams.
-- **Problem-Solving**: Proactive in identifying potential challenges in documentation workflows and finding effective solutions to improve content delivery.
+My goal is to deliver content that enhances the developer experience while empowering users to navigate software and tools confidently.
 
 ---
 
-## Recent Projects
+## **Technical Skills**
 
-### Trello API: Automating Task Management with Postman
-- **Description**: Developed a comprehensive guide on automating tasks in Trello using the Trello API. The guide includes detailed instructions, code examples, and troubleshooting tips to assist users in effectively managing Trello boards programmatically.
-- **Technologies Used**: Trello API, Markdown, GitHub Pages
-- **Link**: [Trello API: Automating Task Management with Postman](https://gfiorino.github.io/Trello-API-Automating-Task-Management-with-Postman/)
+### **Documentation Tools**  
+- Markdown, GitHub Pages, MadCap Flare, Confluence, Swagger  
+
+### **Programming & Data Formats**  
+- JSON, YAML  
+
+### **Content Development**  
+- Version control with GitHub  
+- Postman for API testing and documentation  
+- Writing clean, structured, and user-centric content  
 
 ---
 
-## Contact
+## **Soft Skills**  
+- **Effective Communication**: Skilled at simplifying complex technical information into user-friendly content.  
+- **Adaptability**: Quick to learn new tools and processes, ensuring seamless integration into any project.  
+- **Attention to Detail**: Ensures documentation is accurate, professional, and error-free.  
+- **Collaboration**: Works efficiently with cross-functional teams to produce high-quality results.  
+- **Problem-Solving**: Proactively identifies gaps in documentation workflows and implements practical solutions.
 
-- **Email**: [gianpierofiorino@icloud.com](mailto:gianpierofiorino@icloud.com)
-- **LinkedIn**: [Gianpiero Fiorino](https://www.linkedin.com/in/gianpiero-fiorino/)
-- **GitHub**: [gfiorino](https://github.com/gfiorino)
+---
+
+## **Recent Projects**
+
+### **Binance API Dashboard Documentation**  
+- **Description**: Created professional documentation for a cryptocurrency dashboard using the Binance API. The project includes detailed setup guides, usage instructions, and a clear breakdown of features with real-time data visualizations.  
+- **Technologies Used**: Binance API, Markdown, Chart.js, JSON  
+- **Link**: [Binance API Dashboard Documentation](https://gfiorino.github.io/Binance-Api-Dashboard/)  
+
+### **Trello API: Automating Task Management with Postman**  
+- **Description**: Developed a comprehensive guide to automating tasks with the Trello API, including detailed examples and troubleshooting sections for enhanced user support.  
+- **Technologies Used**: Trello API, Markdown, Postman, GitHub Pages  
+- **Link**: [Trello API Documentation](https://gfiorino.github.io/Trello-API-Automating-Task-Management-with-Postman/)  
+
+---
+
+## **Contact**  
+
+- **Email**: [gianpierofiorino@icloud.com](mailto:gianpierofiorino@icloud.com)  
+- **LinkedIn**: [Gianpiero Fiorino](https://www.linkedin.com/in/gianpiero-fiorino/)  
+- **GitHub**: [gfiorino](https://github.com/gfiorino)  
